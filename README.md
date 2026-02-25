@@ -1,10 +1,22 @@
-# grind-75
-Getting better at DSA lol
+# Grind 75
 
-**Week 1**
+Getting better at DSA Lol
 
-Day 1 - 23/02/2026 - Completed Two Sum, Valid Paretheses, Merge Two Sorted Lists, Best Time to Buy and Sell Stock,                                  Valid Palindrome
 
-Day 2 - 24/02/2026 - Completed Invert Binary Tree, Valid Anagram, Binary Search
+# Week 1
 
-Day 3 - 25/02/2026 - Completed Flood Fill, Lowest Common Ancestor in Binary Search Tree
+**Day 1 - 23/02/2026**
+* Two Sum
+* Valid Parentheses
+* Merge Two Sorted Lists
+* Best Time to Buy and Sell Stock
+* Valid Palindrome
+
+**Day 2 - 24/02/2026**
+* Invert Binary Tree
+* Valid Anagram
+* Binary Search
+
+**Day 3 - 25/02/2026**
+* Flood Fill
+* Lowest Common Ancestor in Binary Search Tree
