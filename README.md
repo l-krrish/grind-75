@@ -20,3 +20,7 @@ Getting better at DSA Lol
 **Day 3 - 25/02/2026**
 * Flood Fill
 * Lowest Common Ancestor in Binary Search Tree
+
+**Day 4 - 26/02/2026**
+* Implement Queue using stacks
+* Linked List Cycle
