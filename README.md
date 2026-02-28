@@ -24,3 +24,6 @@ Getting better at DSA Lol
 **Day 4 - 26/02/2026**
 * Implement Queue using stacks
 * Linked List Cycle
+
+**Day 5 - 27/02/2026**
+* Balanced Binary Tree
