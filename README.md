@@ -27,3 +27,7 @@ Getting better at DSA Lol
 
 **Day 5 - 27/02/2026**
 * Balanced Binary Tree
+
+**Day 6 - 28/02/2026**
+* Solved Everything Once again
+* Practiced a lot more of Binary Trees and DFS
