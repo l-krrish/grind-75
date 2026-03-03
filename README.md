@@ -31,3 +31,10 @@ Getting better at DSA Lol
 **Day 6 - 28/02/2026**
 * Solved Everything Once again
 * Practiced a lot more of Binary Trees and DFS
+
+# Week 2
+
+**Day 8 - 02/03/2026**
+* First Bad Version
+
+
