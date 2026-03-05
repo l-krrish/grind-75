@@ -37,4 +37,10 @@ Getting better at DSA Lol
 **Day 8 - 02/03/2026**
 * First Bad Version
 
+**Day 9 - 03/03/2026**
+* Missed
+
+**Day 8 - 04/03/2026**
+* Ransom Note
+* Climbing Stairs
 
