@@ -40,7 +40,7 @@ Getting better at DSA Lol
 **Day 9 - 03/03/2026**
 * Missed
 
-**Day 8 - 04/03/2026**
+**Day 10 - 04/03/2026**
 * Ransom Note
 * Climbing Stairs
 
